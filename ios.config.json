@@ -1,0 +1,9 @@
+{
+    "AppName": "WeexApp",
+    "Version": "0.1",
+    "BuildVersion": "0.1.0",
+    "AppId": "wx8b423e68ea158821",
+    "CodeSign": "4ff9ab5b5b18ce23b296e1231dbe008e",
+    "Profile": "shouzhankeji88776191shouzhankeji",
+    "WeexBundle": "index.js"
+}

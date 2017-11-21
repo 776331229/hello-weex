@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhangcheng/zhangcheng/my-projects/test-projects/hello-weex/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/zhangcheng/zhangcheng/my-projects/test-projects/hello-weex/platforms/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/budao/weex-pack/generator/platforms/templates/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/budao/weex-pack/generator/platforms/templates/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/budao/app-framework-android/bin/templates/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/budao/app-framework-android/bin/templates/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
