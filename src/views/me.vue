@@ -170,11 +170,9 @@
 
 <script>
     const webview = weex.requireModule('webview')
-    import routerMixin from '../mixins/routerMixin'
     const modal = weex.requireModule('modal')
     const LOADMORE_COUNT = 4
   export default {
-    mixins : [routerMixin],
     data(){
       return {
           logoUrl: 'http://img1.vued.vanthink.cn/vued08aa73a9ab65dcbd360ec54659ada97c.png',

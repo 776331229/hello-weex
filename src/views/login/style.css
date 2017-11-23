@@ -1,0 +1,36 @@
+.x-login-module{
+    background-color: #eee;
+    align-items: center;
+}
+.x-logo-box{
+    flex-direction: row;
+    justify-content: center;
+}
+
+.x-logo-box > .x-logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 200px;
+}
+
+/*.x-input-box{*/
+    /*position: relative;*/
+    /*flex-direction: row;*/
+    /*justify-content: center;*/
+    /*width: 650px;*/
+/*}*/
+
+/*.x-input-box > .x-icon{*/
+    /*position: absolute;*/
+    /*top: 15px;*/
+    /*left: 15px;*/
+    /*width: 40px;*/
+    /*height: 40px;*/
+/*}*/
+
+/*.x-input-box > .x-input{*/
+    /*width: 650px;*/
+    /*height: 70px;*/
+    /*border-radius: 6px;*/
+    /*text-indent: 80px;*/
+/*}*/

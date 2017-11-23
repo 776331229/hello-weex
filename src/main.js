@@ -3,7 +3,7 @@
  */
 import APP from './APP.vue'
 import router from './router'
-import mixins from './mixins/routerMixin'
+import mixins from './mixins/publicMixin'
 
 // // register global mixins.
 Vue.mixin(mixins);

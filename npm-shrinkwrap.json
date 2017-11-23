@@ -8278,9 +8278,8 @@
         },
         "weex-components": {
             "version": "0.2.0",
-            "resolved": "http://registry.npm.taobao.org/weex-components/download/weex-components-0.2.0.tgz",
-            "integrity": "sha1-c8tB+I4uHO7YbZXR9dtLCiE8/VM=",
-            "dev": true
+            "resolved": "https://registry.npmjs.org/weex-components/-/weex-components-0.2.0.tgz",
+            "integrity": "sha1-c8tB+I4uHO7YbZXR9dtLCiE8/VM="
         },
         "weex-html5": {
             "version": "0.4.1",
